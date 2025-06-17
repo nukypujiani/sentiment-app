@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+Sastrawi
+emoji
+indoNLP
+optuna
+joblib
+matplotlib
+seaborn
+wordcloud
